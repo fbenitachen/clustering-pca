@@ -2,4 +2,5 @@
 Clustering with PCA
 
 ## Resources
-- Keeping up with the latest advancements in machine learning and natural language processing.
+The resource I created about graph coloring in Python and how to detect outliers.
+- [Link Text](#sample-section) - 
