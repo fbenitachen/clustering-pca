@@ -8,3 +8,7 @@ The resource I created about graph coloring in Python and how to detect outliers
 - [Detecting Outliers](https://github.com/fbenitachen/pdf-documentation/blob/main/Detecting_Outliers_Felice.pdf) - Detecting outliers in Python using visualization and statistics.
 
 
+
+Copyright (c) 2026 Felice Benita.
+All rights reserved.
+
