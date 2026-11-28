@@ -1,5 +1,5 @@
 # Clustering-PCA
-Clustering with PCA
+My projects in Clustering with PCA
 
 
 ## Resources
